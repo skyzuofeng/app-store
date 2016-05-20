@@ -1,0 +1,101 @@
+body{
+	background-color: #f5f5f5;
+}
+
+/*nav*/
+.navbar{
+	border:0em;
+	background-color: #1a86c0;
+	color:#ffffff;
+}
+.navbar-default .navbar-nav>li>a{
+		color:#ffffff;
+}
+.toubu{
+	min-height: 25em;
+	margin-top: -1.6em;
+	background-color: #1a86c0;
+}
+.toubu .row{
+	margin-top: 3em;
+	text-align: center;
+	color:#ffffff;
+}
+.toubu .row img{
+	margin-top: 2em;
+}
+.toubu .form-control{
+	width: 75%;
+}
+
+.touinput{
+	margin-top: 2em;
+	float: left;
+}
+.toubtn{
+	border:1px solid #73C1EA;
+	text-transform: uppercase;
+	margin-top: 2em;
+	width: 12%;
+	padding-right:4.5em;
+	float: right;
+	background-color: #1a86c0;
+	color:#ffffff;
+}
+
+
+/**/
+#zhongul h2{
+	font-size: 1em;
+}
+#zhongul li a{
+	color:#999;
+}
+#zhongyou header{
+	border-bottom: 1px solid #d5d5d5;
+}
+#zhongyou h2{
+	padding-bottom: 0.5em;
+	font-size: 1em;
+}
+.bot-list{
+	padding-top: 1em;
+}
+.bot-list .bot{
+	min-height: 7em;
+}
+.tupianh{
+	margin-bottom: 1.5em;
+}
+.imgw{
+	width: 100%;
+	border-radius: 8px;
+}
+.zyh{
+	font-size: 1em;
+	margin-top: 0;
+	margin-bottom: 0.25em;
+}
+.zyh a{
+	color: black;
+}
+.zyp{
+	color: #959595;
+	font-size: 0.8em;
+}
+/*db*/
+.dibu{
+	margin-top: 6em;
+}
+.dibu-bordr{
+	border-bottom: 1px solid #d5d5d5;
+}
+.dibuh{
+	text-align: center;
+	padding-bottom: 1em;
+	border-bottom: 1px solid #d5d5d5;
+}
+.dibue{
+	margin-top: 1em;
+	color: #959595;
+}
